@@ -21,7 +21,8 @@
 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
 
-### Connect me @  &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=[https](https%3A%2F%2Ftwitter.com%2Fbklua73)) &nbsp; and  &nbsp; [![LinkedIn][1.2]][1]
+### Connect me @  &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?
+style=social&url=https%3A%2F%2Ftwitter.com%2Fbklua73) &nbsp; and  &nbsp; [![LinkedIn][1.2]][1]
   
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
