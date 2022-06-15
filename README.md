@@ -1,6 +1,6 @@
 ![giphy](https://user-images.githubusercontent.com/81150223/117401675-99016680-af37-11eb-8215-a5707d8a122e.gif)
 
-<h1 align="center">Hi 👋, I'm BK Lua /h1>
+<h1 align="center">Hi 👋, I'm BK Lua</h1>
 <h3 align="center">I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!</h3>
 
 **Organize by:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Our Business Partner:**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Area of Study:**
