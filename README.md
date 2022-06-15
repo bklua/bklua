@@ -33,11 +33,7 @@
 ![BK Lua's GitHub stats](https://github-readme-stats.vercel.app/api?username=BKLua&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BKLua&layout=compact)](https://github.com/bklua/github-readme-stats)
 
 </details>
-<details>
-  <summary>Click to expand!</summary>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@reubenchan/3eeea877-c110-469b-ab3f-07e8e4c8b3c4.png"height="500" /></a>
 
-</details>
 
 
 
