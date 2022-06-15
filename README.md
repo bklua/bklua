@@ -30,7 +30,7 @@
 <details>
   <summary>Click to expand!</summary>
    
-![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReubenChan&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReubenChan&layout=compact)](https://github.com/ReubenChan/github-readme-stats)
+![BK Lua's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReubenChan&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReubenChan&layout=compact)](https://github.com/bklua/github-readme-stats)
 
 </details>
 <details>
