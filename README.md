@@ -25,7 +25,7 @@
   
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
-[1]: linkedin.com/in/bk-lua-67a339237
+[1]: https://www.linkedin.com/in/bk-lua-67a339237
 
 <details>
   <summary>Click to expand!</summary>
